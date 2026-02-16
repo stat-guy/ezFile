@@ -44,6 +44,8 @@ EZFile is a tax calculation assistant for single W-2 filers with no dependents. 
 All tax rules, brackets, and state data are in the `reference/` directory.
 Read from there -- never hardcode values in responses.
 
+Supported states: PA, NY, CA, CT, NJ, IL, WI, MA, RI, ME, IN, CO, AZ, UT, and all no-income-tax states (AK, FL, NV, NH, SD, TN, TX, WA, WY). State reference files are at `reference/states/<st>.md`.
+
 ## Disclaimer
 
 > EZFile is a tax calculation assistant, not a licensed tax preparer or tax advisor. It does not file your taxes -- you must file yourself at freefilefillableforms.com or another IRS-approved method. Review all numbers carefully. You are responsible for the accuracy of your tax return.

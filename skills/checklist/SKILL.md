@@ -254,9 +254,9 @@ AFTER YOU FILE:
 
 ## Part 6: State Return
 
-Based on the W-2 state:
+Based on the W-2 state, provide filing instructions. Read `reference/states/<st>.md` for detailed state rules.
 
-**If no-income-tax state:**
+**If no-income-tax state** (AK, FL, NV, NH, SD, TN, TX, WA, WY):
 > "Your state ([State]) has no income tax. No state return needed!"
 
 **If PA:**
@@ -267,6 +267,39 @@ Based on the W-2 state:
 
 **If CA:**
 > "For California, file at https://www.ftb.ca.gov/ using CalFile. Check if you qualify for the $60 renter's credit."
+
+**If CT:**
+> "For Connecticut, file at https://portal.ct.gov/drs using myconneCT. CT has progressive brackets (2%-6.99%). Note: the personal exemption phases out above ~$44,500 AGI."
+
+**If NJ:**
+> "For New Jersey, file at https://www.nj.gov/treasury/taxation/ using NJ E-File. NJ uses its own income definition and progressive brackets (1.4%-10.75%). Renters: 18% of your rent counts as a property tax deduction."
+
+**If IL:**
+> "For Illinois, file at https://mytax.illinois.gov/. IL uses a flat 4.95% rate on federal AGI minus a $2,850 personal exemption."
+
+**If WI:**
+> "For Wisconsin, file at https://www.revenue.wi.gov/ using WI E-File. WI has progressive brackets (3.5%-7.65%) and a sliding-scale standard deduction. If household income is under $24,680, check Homestead Credit eligibility."
+
+**If MA:**
+> "For Massachusetts, file at https://www.mass.gov/masstaxconnect. MA uses a flat 5.00% rate with a $4,400 exemption. Renters: you can deduct 50% of rent paid, up to $4,000."
+
+**If RI:**
+> "For Rhode Island, file at https://www.tax.ri.gov/. RI has three brackets (3.75%-5.99%) and a $10,900 standard deduction."
+
+**If ME:**
+> "For Maine, file at https://www.maine.gov/revenue/ using Maine FastFile. ME has three brackets (5.8%-7.15%) and a $15,750 standard deduction. Renters with income under $40,000 may qualify for the Property Tax Fairness Credit (up to $1,000)."
+
+**If IN:**
+> "For Indiana, file at https://intime.dor.in.gov/. IN uses a flat 3.00% state rate plus mandatory county tax (varies by county). Renters can deduct up to $4,000 of rent paid."
+
+**If CO:**
+> "For Colorado, file at https://tax.colorado.gov/ using Revenue Online. CO uses a flat 4.40% rate on your federal taxable income (Line 15 -- after the standard deduction is already applied)."
+
+**If AZ:**
+> "For Arizona, file at https://azdor.gov/ using AZTaxes. AZ uses a flat 2.50% rate with a standard deduction that matches the federal amount ($15,750)."
+
+**If UT:**
+> "For Utah, file at https://tax.utah.gov/. UT uses a flat 4.50% rate on federal AGI. Instead of a standard deduction, UT gives you a Taxpayer Tax Credit."
 
 **Other states:**
 > "For [State], check your state tax agency's website for free filing options. Many states offer free e-filing for simple returns."

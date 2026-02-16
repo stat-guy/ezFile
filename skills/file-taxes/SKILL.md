@@ -223,11 +223,24 @@ RESULT
 
 ## Step 8: State Tax Note
 
-Based on Box 15, briefly note the state situation:
-- If no-income-tax state: "Good news -- [State] has no state income tax. No state return needed."
-- If PA: "Pennsylvania uses a flat 3.07% rate. Your PA tax: Box 16 × 3.07% = $X,XXX. Withheld: $X,XXX. PA refund/owed: $X."
-- If NY/CA: Give a brief estimate based on the state reference files.
-- For other states: "You'll need to file a [State] state return. Check your state's tax website for free filing options."
+Based on Box 15, read the corresponding state reference file from `reference/states/<st>.md` and briefly note the state situation:
+
+- **No-income-tax state** (AK, FL, NV, NH, SD, TN, TX, WA, WY): "Good news -- [State] has no state income tax. No state return needed."
+- **PA**: "Pennsylvania uses a flat 3.07% rate. Your PA tax: Box 16 × 3.07% = $X,XXX. Withheld: $X,XXX. PA refund/owed: $X."
+- **NY**: Give a brief estimate -- progressive brackets (4%-6.85%), $8,000 standard deduction, starts from federal AGI. Read `reference/states/ny.md`.
+- **CA**: Give a brief estimate -- progressive brackets (1%-9.3%), $5,540 standard deduction, $60 renter's credit. Read `reference/states/ca.md`.
+- **CT**: Progressive brackets (2%-6.99%), personal exemption phases out above ~$44.5K AGI. Read `reference/states/ct.md`.
+- **NJ**: Progressive brackets (1.4%-10.75%), own income definition (not federal AGI), 18% of rent as property tax deduction. Read `reference/states/nj.md`.
+- **IL**: Flat 4.95%, starts from federal AGI, $2,850 personal exemption. Read `reference/states/il.md`.
+- **WI**: Progressive brackets (3.5%-7.65%), sliding-scale standard deduction (up to $14,260), Homestead Credit for low-income renters. Read `reference/states/wi.md`.
+- **MA**: Flat 5.00%, own income definition, $4,400 exemption, rent deduction up to $4,000. Read `reference/states/ma.md`.
+- **RI**: Progressive brackets (3.75%-5.99%), $10,900 standard deduction. Read `reference/states/ri.md`.
+- **ME**: Progressive brackets (5.8%-7.15%), $15,750 standard deduction, Property Tax Fairness Credit up to $1,000 for renters. Read `reference/states/me.md`.
+- **IN**: Flat 3.00% + county tax (0.5%-2.95%), $1,000 exemption, renter deduction up to $4,000. Read `reference/states/in.md`.
+- **CO**: Flat 4.40%, starts from federal **taxable income** (Line 15, not AGI). Read `reference/states/co.md`.
+- **AZ**: Flat 2.50%, $15,750 standard deduction (matches federal). Read `reference/states/az.md`.
+- **UT**: Flat 4.50%, Taxpayer Tax Credit instead of standard deduction. Read `reference/states/ut.md`.
+- **Other states**: "You'll need to file a [State] state return. Check your state's tax website for free filing options."
 
 ## Step 9: Next Steps
 
