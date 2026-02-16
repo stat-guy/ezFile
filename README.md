@@ -27,6 +27,14 @@ claude --plugin-dir ~/ezfile
 
 Or add to your Claude Code settings to load automatically.
 
+## Demo
+
+Watch EZFile process a W-2 and calculate a complete federal return in real time:
+
+<video src="https://github.com/stat-guy/ezFile/raw/main/return%20demo%20process.mov" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
+
 ## Try It Out
 
 A sample W-2 is included in the repo so you can test EZFile without using real tax documents:
@@ -36,6 +44,15 @@ A sample W-2 is included in the repo so you can test EZFile without using real t
 ```
 
 The sample contains fictional data — no real personal information.
+
+### Sample Return
+
+The [`returns/`](returns/) folder contains a completed return generated from the sample W-2, so you can see exactly what EZFile produces:
+
+- **[summary-2025.md](returns/summary-2025.md)** — Human-readable return summary with every line item, tax brackets, and state/local breakdown
+- **[return-2025.json](returns/return-2025.json)** — Machine-readable return data (all W-2 fields, Form 1040 lines, bracket detail, state, and local)
+
+This sample return was calculated from `Sample-W2.pdf` for a fictional employee (Elizabeth A Darling, University of Pittsburgh) resulting in a **$4,404.60 federal refund**.
 
 ## Usage
 

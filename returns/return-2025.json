@@ -1,0 +1,84 @@
+{
+  "tax_year": 2025,
+  "form": "1040",
+  "filing_status": "Single",
+  "generated": "2026-02-16",
+  "employee": {
+    "name": "Elizabeth A Darling",
+    "ssn_last4": "XXX-XX-1234",
+    "address": "2001 Campus Drive, Pittsburgh, PA 15237"
+  },
+  "employer": {
+    "name": "University of Pittsburgh",
+    "ein": "25-0965591",
+    "address": "4200 Fifth Avenue, Pittsburgh, PA 15260"
+  },
+  "w2": {
+    "box1_wages": 44629.35,
+    "box2_federal_withheld": 7631.62,
+    "box3_ss_wages": 48736.35,
+    "box4_ss_tax": 3021.65,
+    "box5_medicare_wages": 48736.35,
+    "box6_medicare_tax": 706.68,
+    "box10_dependent_care": 1000.00,
+    "box12a_code": "E",
+    "box12a_amount": 4107.00,
+    "box12b_code": "W",
+    "box12b_amount": 1500.00,
+    "box13_retirement_plan": true,
+    "box14": [
+      { "code": "14H", "description": "Scholarship", "amount": 1600.00 },
+      { "code": "14X", "description": "Local Service Tax", "amount": 52.00 }
+    ],
+    "box15_state": "PA",
+    "box15_state_id": "15985369",
+    "box16_state_wages": 47808.35,
+    "box17_state_tax": 1467.72,
+    "box18_local_wages": 47808.35,
+    "box19_local_tax": 478.08,
+    "box20_locality": "700102"
+  },
+  "form1040": {
+    "line1a_wages": 44629.35,
+    "line9_total_income": 44629.35,
+    "line10_adjustments": 0.00,
+    "line11_agi": 44629.35,
+    "line12a_standard_deduction": 15750.00,
+    "line12c_schedule_1a": 0.00,
+    "line14_total_deductions": 15750.00,
+    "line15_taxable_income": 28879.35,
+    "line16_tax": 3227.02,
+    "line19_nonrefundable_credits": 0.00,
+    "line22_tax_minus_credits": 3227.02,
+    "line24_total_tax": 3227.02,
+    "line25a_federal_withheld": 7631.62,
+    "line25d_total_withheld": 7631.62,
+    "line27_eic": 0.00,
+    "line33_total_payments": 7631.62,
+    "line34_refund": 4404.60,
+    "line37_amount_owed": 0.00
+  },
+  "tax_bracket_detail": {
+    "bracket_10_income": 11925.00,
+    "bracket_10_tax": 1192.50,
+    "bracket_12_income": 16954.35,
+    "bracket_12_tax": 2034.52,
+    "total_tax": 3227.02,
+    "effective_rate_on_taxable": 11.17,
+    "effective_rate_on_agi": 7.23
+  },
+  "state": {
+    "state": "PA",
+    "rate": 3.07,
+    "state_wages": 47808.35,
+    "state_tax_computed": 1467.72,
+    "state_tax_withheld": 1467.72,
+    "state_refund_owed": 0.00
+  },
+  "local": {
+    "locality": "700102",
+    "local_wages": 47808.35,
+    "local_tax_withheld": 478.08,
+    "lst_withheld": 52.00
+  }
+}

@@ -1,6 +1,8 @@
 # User tax return data -- NEVER commit
 returns/*
 !returns/.gitkeep
+!returns/return-2025.json
+!returns/summary-2025.md
 
 # OS files
 .DS_Store
