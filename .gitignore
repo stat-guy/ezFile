@@ -1,0 +1,18 @@
+# User tax return data -- NEVER commit
+returns/*
+!returns/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
