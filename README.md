@@ -27,6 +27,16 @@ claude --plugin-dir ~/ezfile
 
 Or add to your Claude Code settings to load automatically.
 
+## Try It Out
+
+A sample W-2 is included in the repo so you can test EZFile without using real tax documents:
+
+```
+/ezfile:file-taxes ~/ezfile/Sample-W2.pdf
+```
+
+The sample contains fictional data — no real personal information.
+
 ## Usage
 
 ### Main Workflow
