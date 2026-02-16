@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "EZFile - W-2 Tax Filing Assistant for Single Filers. Reads your W-2, calculates your complete Form 1040 (or 1040-SR for seniors), and generates a line-by-line filing guide for Free File Fillable Forms.",
   "author": "EZFile Contributors",
-  "homepage": "https://github.com/ezfile/ezfile",
+  "homepage": "https://github.com/stat-guy/ezFile",
   "skills": [
     {
       "name": "file-taxes",

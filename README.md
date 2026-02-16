@@ -17,15 +17,38 @@ If your situation is more complex, EZFile will tell you and recommend a CPA or f
 
 ## Installation
 
-```bash
-# Clone the plugin
-git clone https://github.com/ezfile/ezfile.git ~/ezfile
+### From the Claude Code Marketplace
 
-# Use with Claude Code
+The quickest way to install EZFile:
+
+```bash
+# Open the plugin browser and search for "ezfile"
+/plugin
+
+# Or install directly
+/plugin install ezfile@stat-guy-ezFile
+```
+
+### From This Repo
+
+```bash
+# 1. Clone the plugin
+git clone https://github.com/stat-guy/ezFile.git ~/ezfile
+
+# 2. Launch Claude Code with the plugin loaded
 claude --plugin-dir ~/ezfile
 ```
 
-Or add to your Claude Code settings to load automatically.
+To load EZFile automatically every session, add the marketplace to your Claude Code settings:
+
+```bash
+/plugin marketplace add stat-guy/ezFile
+/plugin install ezfile@stat-guy-ezFile
+```
+
+### Verify Installation
+
+Once installed, run `/ezfile:explain standard deduction` — if EZFile responds with a plain-English explanation, you're all set.
 
 ## Demo
 
