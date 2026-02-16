@@ -1,0 +1,13 @@
+{
+  "name": "ezfile-marketplace",
+  "description": "EZFile - W-2 Tax Filing Assistant for Claude Code",
+  "plugins": [
+    {
+      "name": "ezfile",
+      "description": "W-2 tax filing assistant for single filers. Reads your W-2, calculates Form 1040 line by line, and generates a filing guide for Free File Fillable Forms.",
+      "source": ".",
+      "version": "1.0.0",
+      "keywords": ["taxes", "w2", "1040", "tax-filing", "irs", "free-file"]
+    }
+  ]
+}
