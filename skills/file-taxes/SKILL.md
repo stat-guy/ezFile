@@ -255,6 +255,21 @@ Based on Box 15, read the corresponding state reference file from `reference/sta
 - **AL**: Progressive (2%-5%), $3,000 standard deduction + $1,500 exemption. **Unique: federal tax paid is deductible.** Read `reference/states/al.md`.
 - **MS**: Flat 4.4% on income over $10,000, $2,300 standard deduction + $6,000 exemption. Phasing out by 2030. Read `reference/states/ms.md`.
 - **MN**: Progressive (5.35%-9.85%), starts from federal **taxable income** (Line 15). Renter's Property Tax Refund (Form M1PR) up to ~$2,270. Read `reference/states/mn.md`.
+- **IA**: Flat 3.80%, starts from federal **taxable income** (Line 15). **Deadline: April 30.** Read `reference/states/ia.md`.
+- **MO**: Progressive (0%-4.70%, top rate at $9,192), $15,750 standard deduction (matches federal). Read `reference/states/mo.md`.
+- **AR**: Progressive (0%-3.9%), own AGI definition, $2,470 standard deduction, $29 personal credit. Read `reference/states/ar.md`.
+- **LA**: Flat 3.0% (new for 2025), $12,500 standard deduction. **Deadline: May 15.** Read `reference/states/la.md`.
+- **ND**: Progressive (0% up to $48,475, then 1.95%/2.50%), starts from federal **taxable income** (Line 15). Near-zero tax for most filers. Read `reference/states/nd.md`.
+- **NE**: Progressive (2.46%-5.20%), $8,600 standard deduction, $171 personal credit. Read `reference/states/ne.md`.
+- **KS**: Progressive (5.20%/5.58%), $3,605 standard deduction + $9,160 personal exemption. Homestead Refund for renters. Read `reference/states/ks.md`.
+- **OK**: Progressive (0.25%-4.75%, top rate at $7,201), $6,350 standard deduction. Read `reference/states/ok.md`.
+- **MT**: Progressive (4.70%/5.90%), starts from federal **taxable income** (Line 15). No sales tax. Read `reference/states/mt.md`.
+- **NM**: Progressive (1.50%-5.90%), federal standard deduction + $2,500 exemption. LICTR rebate for income ≤ $36K. Read `reference/states/nm.md`.
+- **ID**: Flat 5.30%, starts from federal **taxable income** (Line 15), $120 grocery credit. Read `reference/states/id.md`.
+- **OR**: Progressive (4.75%-9.90%), $2,835 standard deduction (very low), federal tax subtraction up to $7,650. No sales tax. Read `reference/states/or.md`.
+- **DC**: Progressive (4%-10.75%), $15,750 standard deduction. Schedule H renter credit (20% of rent, up to $1,425). Read `reference/states/dc.md`.
+- **PR**: Territory with own tax system. PR residents generally don't file federal returns. Read `reference/states/pr.md`.
+- **VI**: Territory using federal "mirror code." Filed with USVI BIR, not IRS. Read `reference/states/vi.md`.
 - **Other states**: "You'll need to file a [State] state return. Check your state's tax website for free filing options."
 
 ## Step 9: Next Steps

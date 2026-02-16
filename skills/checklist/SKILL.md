@@ -346,6 +346,51 @@ Based on the W-2 state, provide filing instructions. Read `reference/states/<st>
 **If MN:**
 > "For Minnesota, file at https://www.revenue.state.mn.us/. MN has progressive brackets (5.35%-9.85%) starting from your federal taxable income. Very important for renters: file Form M1PR separately for MN's Renter's Property Tax Refund (up to ~$2,270) -- deadline is **August 15**."
 
+**If IA:**
+> "For Iowa, file via Free File Alliance at https://revenue.iowa.gov/. IA uses a flat 3.80% rate on your federal taxable income (Line 15). Important: Iowa's deadline is **April 30**."
+
+**If MO:**
+> "For Missouri, file via Free File Alliance at https://dor.mo.gov/. MO has narrow brackets with a top rate of 4.70% (kicks in at ~$9,192). Standard deduction matches federal ($15,750)."
+
+**If AR:**
+> "For Arkansas, file at https://atap.arkansas.gov/. AR has progressive brackets (0%-3.9%) with the first $5,499 tax-free, a $2,470 standard deduction, and a $29 personal credit."
+
+**If LA:**
+> "For Louisiana, file at https://latap.revenue.louisiana.gov/. LA completely reformed for 2025: flat 3.0% rate with a $12,500 standard deduction. Important: Louisiana's deadline is **May 15**."
+
+**If ND:**
+> "For North Dakota, file at https://www.tax.nd.gov/. ND's first $48,475 of taxable income is completely tax-free. At your income level, you likely owe NO ND tax."
+
+**If NE:**
+> "For Nebraska, file at https://revenue.nebraska.gov/ using NebFile. NE has progressive brackets (2.46%-5.20%) with an $8,600 standard deduction and $171 personal credit."
+
+**If KS:**
+> "For Kansas, file at https://www.kansas.gov/webfile/ or via IRS Direct File. KS has two brackets (5.20%/5.58%) with a $3,605 standard deduction and $9,160 personal exemption. Lower-income renters may qualify for a Homestead Refund."
+
+**If OK:**
+> "For Oklahoma, file at https://oktap.tax.ok.gov/. OK has a top rate of 4.75% with a $6,350 standard deduction."
+
+**If MT:**
+> "For Montana, file via Free File Alliance at https://revenue.mt.gov/. MT has two brackets (4.70%/5.90%) starting from your federal taxable income (Line 15). Montana has no sales tax."
+
+**If NM:**
+> "For New Mexico, file at https://tap.state.nm.us/ or via IRS Direct File. NM has progressive brackets (1.50%-5.90%). If your income is under $36,000, check the Low-Income Comprehensive Tax Rebate."
+
+**If ID:**
+> "For Idaho, file at https://tax.idaho.gov/ or via IRS Direct File. ID uses a flat 5.30% rate on your federal taxable income (Line 15). You also get a $120 grocery credit."
+
+**If OR:**
+> "For Oregon, file at https://www.oregon.gov/dor/ via Direct File Oregon. OR has high rates (4.75%-9.90%) but a federal tax subtraction (up to $7,650) and a $256 personal credit. Oregon has no sales tax."
+
+**If DC:**
+> "For D.C., file at https://otr.cfo.dc.gov/ (MyTax DC). DC has progressive brackets (4%-10.75%) with a $15,750 standard deduction. Renters: file Schedule H for a property tax credit (20% of rent, up to $1,425, AGI ≤ $66,000)."
+
+**If PR:**
+> "Puerto Rico has its own separate tax system. PR residents generally don't file federal Form 1040 for PR-source income. File your PR return at suri.hacienda.pr.gov or consult a CPA familiar with PR taxation."
+
+**If VI:**
+> "The U.S. Virgin Islands uses a 'mirror' of the federal tax code, filed with the USVI Bureau of Internal Revenue (not the IRS). File at vibir.gov or consult a USVI tax professional."
+
 **Other states:**
 > "For [State], check your state tax agency's website for free filing options. Many states offer free e-filing for simple returns."
 
