@@ -31,9 +31,7 @@ Or add to your Claude Code settings to load automatically.
 
 Watch EZFile process a W-2 and calculate a complete federal return in real time:
 
-<video src="https://github.com/stat-guy/ezFile/raw/main/return-demo-process.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/stat-guy/ezFile/raw/main/return-demo-process.mp4
 
 ## Try It Out
 
