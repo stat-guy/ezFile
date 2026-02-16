@@ -301,6 +301,51 @@ Based on the W-2 state, provide filing instructions. Read `reference/states/<st>
 **If UT:**
 > "For Utah, file at https://tax.utah.gov/. UT uses a flat 4.50% rate on federal AGI. Instead of a standard deduction, UT gives you a Taxpayer Tax Credit."
 
+**If MI:**
+> "For Michigan, file at https://www.michigan.gov/taxes. MI uses a flat 4.25% rate with a $5,600 personal exemption. Renters: check if you qualify for the Homestead Property Tax Credit (20% of rent counts as property tax, credit up to $1,700)."
+
+**If OH:**
+> "For Ohio, file at https://myportal.tax.ohio.gov/ (OH|TAX). The first $26,050 of income is tax-free, then 2.75%/3.125%. Note: most Ohio cities also levy their own income tax (typically 2-2.5%) -- check W-2 Boxes 18-20."
+
+**If KY:**
+> "For Kentucky, file at https://mytaxes.ky.gov/ (KY File -- free for all residents). KY uses a flat 4.0% rate with a $3,270 standard deduction."
+
+**If VA:**
+> "For Virginia, file at https://www.tax.virginia.gov/. VA has progressive brackets (2%-5.75%) with an $8,000 standard deduction and $930 personal exemption. Important: Virginia's deadline is **May 1**, not April 15."
+
+**If HI:**
+> "For Hawaii, file at https://tax.hawaii.gov/. HI has 12 brackets (1.4%-11%) -- the most of any state. Standard deduction is very low ($2,200). Important: Hawaii's deadline is **April 20**."
+
+**If WV:**
+> "For West Virginia, file at https://mytaxes.wvtax.gov/. WV has progressive brackets (2.16%-4.67%) with a $2,000 personal exemption."
+
+**If NC:**
+> "For North Carolina, file via NC Free File at https://www.ncdor.gov/. NC uses a flat 4.25% rate with a $12,750 standard deduction."
+
+**If SC:**
+> "For South Carolina, file through approved e-file software at https://dor.sc.gov/. SC has three brackets (0%, 3%, 6%) with a $15,000 standard deduction. SC starts from your federal taxable income (Line 15)."
+
+**If GA:**
+> "For Georgia, file through Free File Alliance at https://dor.georgia.gov/. GA uses a flat 5.19% rate with a $12,000 standard deduction."
+
+**If VT:**
+> "For Vermont, file at https://tax.vermont.gov/ (myVTax). VT has progressive brackets (3.35%-8.75%) starting from your federal taxable income. Renters: file Form PR-141 separately for VT's Renter Rebate (up to ~$3,000)."
+
+**If MD:**
+> "For Maryland, file at https://www.marylandtaxes.gov/. MD has progressive brackets (2%-5.75%) plus a mandatory county tax (typically 3.20%). Standard deduction is 15% of AGI (capped at $2,550). Renters: apply separately for MD's Renter's Tax Credit."
+
+**If DE:**
+> "For Delaware, file at https://revenue.delaware.gov/. DE has progressive brackets (0%-6.60%) with a $3,250 standard deduction. Important: Delaware's deadline is **April 30**."
+
+**If AL:**
+> "For Alabama, file at https://www.revenue.alabama.gov/ (My Alabama Taxes). AL has brackets (2%-5%) with a unique perk: you can deduct your federal income tax from your AL taxable income."
+
+**If MS:**
+> "For Mississippi, file through approved e-file providers at https://www.dor.ms.gov/. MS taxes at 4.4% on income over $10,000 (first $10,000 tax-free). Standard deduction $2,300 + personal exemption $6,000. MS is phasing out its income tax by 2030."
+
+**If MN:**
+> "For Minnesota, file at https://www.revenue.state.mn.us/. MN has progressive brackets (5.35%-9.85%) starting from your federal taxable income. Very important for renters: file Form M1PR separately for MN's Renter's Property Tax Refund (up to ~$2,270) -- deadline is **August 15**."
+
 **Other states:**
 > "For [State], check your state tax agency's website for free filing options. Many states offer free e-filing for simple returns."
 

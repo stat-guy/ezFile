@@ -170,7 +170,7 @@ EZFile is designed with privacy as a core principle:
 | Form 1040-SR (seniors) | Yes |
 | Saver's Credit | Yes |
 | EIC (no children) | Yes |
-| State returns (PA, NY, CA, CT, NJ, IL, WI, MA, RI, ME, IN, CO, AZ, UT, no-income-tax states) | Yes |
+| State returns (PA, NY, CA, CT, NJ, IL, WI, MA, RI, ME, IN, CO, AZ, UT, MI, OH, KY, VA, HI, WV, NC, SC, GA, VT, MD, DE, AL, MS, MN, no-income-tax states) | Yes |
 
 ## Not Supported (Use a CPA or TurboTax)
 

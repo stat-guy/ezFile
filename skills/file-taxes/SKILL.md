@@ -240,6 +240,21 @@ Based on Box 15, read the corresponding state reference file from `reference/sta
 - **CO**: Flat 4.40%, starts from federal **taxable income** (Line 15, not AGI). Read `reference/states/co.md`.
 - **AZ**: Flat 2.50%, $15,750 standard deduction (matches federal). Read `reference/states/az.md`.
 - **UT**: Flat 4.50%, Taxpayer Tax Credit instead of standard deduction. Read `reference/states/ut.md`.
+- **MI**: Flat 4.25%, federal AGI, $5,600 personal exemption, Homestead Property Tax Credit for renters (up to $1,700). Read `reference/states/mi.md`.
+- **OH**: Progressive (0% up to $26,050, then 2.75%/3.125%), income-based personal exemption, city income taxes. Read `reference/states/oh.md`.
+- **KY**: Flat 4.0%, federal AGI, $3,270 standard deduction. Read `reference/states/ky.md`.
+- **VA**: Progressive (2%-5.75%, top rate at $17,001), $8,000 standard deduction + $930 exemption. **Deadline: May 1.** Read `reference/states/va.md`.
+- **HI**: Progressive (12 brackets, 1.4%-11%), $2,200 standard deduction (very low). **Deadline: April 20.** Read `reference/states/hi.md`.
+- **WV**: Progressive (2.16%-4.67%), $2,000 personal exemption, no standard deduction. Read `reference/states/wv.md`.
+- **NC**: Flat 4.25%, federal AGI, $12,750 standard deduction. Read `reference/states/nc.md`.
+- **SC**: Progressive (0%/3%/6%), starts from federal **taxable income** (Line 15), $15,000 standard deduction. Read `reference/states/sc.md`.
+- **GA**: Flat 5.19%, federal AGI, $12,000 standard deduction. Read `reference/states/ga.md`.
+- **VT**: Progressive (3.35%-8.75%), starts from federal **taxable income** (Line 15). Renter Rebate up to ~$3,000. Read `reference/states/vt.md`.
+- **MD**: Progressive (2%-5.75%) + mandatory county tax (2.25%-3.20%), standard deduction is 15% of AGI (min $1,800, max $2,550). Read `reference/states/md.md`.
+- **DE**: Progressive (0%-6.60%), $3,250 standard deduction, $110 personal credit. **Deadline: April 30.** Read `reference/states/de.md`.
+- **AL**: Progressive (2%-5%), $3,000 standard deduction + $1,500 exemption. **Unique: federal tax paid is deductible.** Read `reference/states/al.md`.
+- **MS**: Flat 4.4% on income over $10,000, $2,300 standard deduction + $6,000 exemption. Phasing out by 2030. Read `reference/states/ms.md`.
+- **MN**: Progressive (5.35%-9.85%), starts from federal **taxable income** (Line 15). Renter's Property Tax Refund (Form M1PR) up to ~$2,270. Read `reference/states/mn.md`.
 - **Other states**: "You'll need to file a [State] state return. Check your state's tax website for free filing options."
 
 ## Step 9: Next Steps
